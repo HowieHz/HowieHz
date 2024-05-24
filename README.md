@@ -19,6 +19,7 @@
 </table>
 -->
 
+<!--
 ## 一些项目
 
 <table border="0">
@@ -33,6 +34,7 @@
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=HowieHz&repo=halo-theme-higan-hz" alt="HowieHz/halo-theme-higan-hz" loading="lazy"></a></center> </td>
 </tr>
 </table>
+-->
 
 <!--
 ## Hi there 👋
