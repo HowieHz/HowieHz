@@ -3,7 +3,8 @@
 - [📫我的博客](https://howiehz.top/)
 - [💬关于我](https://howiehz.top/about)
 
-## 一些统计信息
+## 统计
+一些统计信息
 
 | <a href="https://github.com/HowieHz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HowieHz&show_icons=true&include_all_commits=true&hide_border=true&locale=cn" alt="HowieHz" /></a> | <a href="https://github.com/HowieHz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HowieHz&layout=compact&hide_border=true&locale=cn" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
