@@ -1,7 +1,7 @@
 ## 你好，我是 Howie
 
-- [📫我的博客](https://howiehz.top/)
-- [💬关于我](https://howiehz.top/about)
+- [📫我的博客/My Blog](https://howiehz.top/)
+- [💬关于我/About Me](https://howiehz.top/about)
 
 ## 统计
 一些统计信息
