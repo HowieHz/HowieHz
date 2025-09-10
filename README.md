@@ -9,6 +9,18 @@
 | <a href="https://github.com/HowieHz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HowieHz&show_icons=true&include_all_commits=true&hide_border=true&locale=cn" alt="HowieHz" /></a> | <a href="https://github.com/HowieHz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HowieHz&layout=compact&hide_border=true&locale=cn" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
+<details><summary>funny trophy</summary>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=HowieHz&no-frame=true&theme=onedark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=HowieHz&no-frame=true" />
+   <img alt="trophy" src="https://github-profile-trophy.vercel.app/?username=HowieHz&no-frame=true" />
+ </picture>
+</a>
+
+</details>
+
 <!--
 <table border="0">
 <tr>
