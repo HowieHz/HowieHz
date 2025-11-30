@@ -1,21 +1,19 @@
-## Hi — I'm Howie
+## 你好，我是 Howie
 
-[简体中文](./README.zh-hans.md)
+- [📫我的博客](https://howiehz.top/)
+- [💬关于我](https://howiehz.top/about)
 
-- [📫My Blog](https://howiehz.top/)
-- [💬About Me](https://howiehz.top/about)
-
-## Statistics
+## 统计
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HowieHz&theme=nord_bright)
 
 | | |
 | :---: | :---: |
-| <a href="https://github.com/HowieHz"><img align="center" src="https://github-readme-stats-eight-beryl-91.vercel.app/api?username=HowieHz&show_icons=true&include_all_commits=true&hide_border=true" alt="HowieHz" /></a> | <a href="https://github.com/HowieHz"><img align="center" src="https://github-readme-stats-eight-beryl-91.vercel.app/api/top-langs/?username=HowieHz&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/HowieHz"><img align="center" src="https://github-readme-stats-eight-beryl-91.vercel.app/api?username=HowieHz&show_icons=true&include_all_commits=true&hide_border=true&locale=cn" alt="HowieHz" /></a> | <a href="https://github.com/HowieHz"><img align="center" src="https://github-readme-stats-eight-beryl-91.vercel.app/api/top-langs/?username=HowieHz&layout=compact&hide_border=true&locale=cn" /></a> |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HowieHz&theme=nord_bright) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HowieHz&theme=nord_bright) |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HowieHz&theme=nord_bright&) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HowieHz&theme=nord_bright&utcOffset=8) |
 
-<details><summary>funny trophy</summary>
+<details><summary>有趣的奖杯</summary>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
  <picture>
