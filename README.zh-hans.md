@@ -5,13 +5,20 @@
 
 ## 统计
 
+| | |
+| :---: | :---: |
+| <a href="https://github.com/HowieHz"><img align="center" src="https://github-readme-stats-eight-beryl-91.vercel.app/api?username=HowieHz&show_icons=true&include_all_commits=true&hide_border=true&locale=cn" alt="HowieHz" /></a> | <a href="https://github.com/HowieHz"><img align="center" src="https://github-readme-stats-eight-beryl-91.vercel.app/api/top-langs/?username=HowieHz&layout=compact&hide_border=true&locale=cn" /></a> |
+
+<details><summary>其他统计</summary>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HowieHz&theme=nord_bright)
 
 | | |
 | :---: | :---: |
-| <a href="https://github.com/HowieHz"><img align="center" src="https://github-readme-stats-eight-beryl-91.vercel.app/api?username=HowieHz&show_icons=true&include_all_commits=true&hide_border=true&locale=cn" alt="HowieHz" /></a> | <a href="https://github.com/HowieHz"><img align="center" src="https://github-readme-stats-eight-beryl-91.vercel.app/api/top-langs/?username=HowieHz&layout=compact&hide_border=true&locale=cn" /></a> |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HowieHz&theme=nord_bright) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HowieHz&theme=nord_bright) |
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HowieHz&theme=nord_bright&) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HowieHz&theme=nord_bright&utcOffset=8) |
+
+</details>
 
 <details><summary>有趣的奖杯</summary>
 
