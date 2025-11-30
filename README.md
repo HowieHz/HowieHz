@@ -6,7 +6,7 @@
 ## 统计
 一些统计信息
 
-| <a href="https://github.com/HowieHz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HowieHz&show_icons=true&include_all_commits=true&hide_border=true&locale=cn" alt="HowieHz" /></a> | <a href="https://github.com/HowieHz"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HowieHz&layout=compact&hide_border=true&locale=cn" /></a> |
+| <a href="https://github.com/HowieHz"><img align="center" src="https://github-readme-stats-eight-beryl-91.vercel.app/api?username=HowieHz&show_icons=true&include_all_commits=true&hide_border=true&locale=cn" alt="HowieHz" /></a> | <a href="https://github.com/HowieHz"><img align="center" src="https://github-readme-stats-eight-beryl-91.vercel.app/api/top-langs/?username=HowieHz&layout=compact&hide_border=true&locale=cn" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 <details><summary>funny trophy</summary>
