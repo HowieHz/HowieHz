@@ -9,6 +9,14 @@
 | :---: | :---: |
 | <a href="https://github.com/HowieHz"><img align="center" src="https://github-readme-stats-eight-beryl-91.vercel.app/api?username=HowieHz&show_icons=true&include_all_commits=true&hide_border=true&locale=cn" alt="HowieHz" /></a> | <a href="https://github.com/HowieHz"><img align="center" src="https://github-readme-stats-eight-beryl-91.vercel.app/api/top-langs/?username=HowieHz&layout=compact&hide_border=true&locale=cn" /></a> |
 
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/HowieHz/HowieHz/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HowieHz/HowieHz/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/HowieHz/HowieHz/output-3d-contrib/day.svg" />
+	</picture>
+</p>
+
 <details><summary>其他统计</summary>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HowieHz&theme=nord_bright)
