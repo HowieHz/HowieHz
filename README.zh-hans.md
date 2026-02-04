@@ -34,6 +34,13 @@
 | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards-1.vercel.app/api/cards/repos-per-language?username=HowieHz&theme=github_dark" /><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards-1.vercel.app/api/cards/repos-per-language?username=HowieHz&theme=github" /><img src="https://github-profile-summary-cards-1.vercel.app/api/cards/repos-per-language?username=HowieHz&theme=github" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards-1.vercel.app/api/cards/most-commit-language?username=HowieHz&theme=github_dark" /><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards-1.vercel.app/api/cards/most-commit-language?username=HowieHz&theme=github" /><img src="https://github-profile-summary-cards-1.vercel.app/api/cards/most-commit-language?username=HowieHz&theme=github" /></picture> |
 | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards-1.vercel.app/api/cards/stats?username=HowieHz&theme=github_dark" /><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards-1.vercel.app/api/cards/stats?username=HowieHz&theme=github" /><img src="https://github-profile-summary-cards-1.vercel.app/api/cards/stats?username=HowieHz&theme=github" /></picture> | <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards-1.vercel.app/api/cards/productive-time?username=HowieHz&utcOffset=8&theme=github_dark" /><source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards-1.vercel.app/api/cards/productive-time?username=HowieHz&theme=github&utcOffset=8" /><img src="https://github-profile-summary-cards-1.vercel.app/api/cards/stats?username=HowieHz&theme=githubgithub-profile-summary-cards-1.vercel.app/api/cards/productive-time?username=HowieHz&theme=github&utcOffset=8" /></picture> |
 
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=94725606" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=94725606&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @HowieHz" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=94725606&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
 </details>
 
 <details><summary>有趣的奖杯</summary>
